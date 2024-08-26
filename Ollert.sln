@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ollert", "Ollert\Ollert.csproj", "{845DE619-06B3-4299-B978-3C6DD2006392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{845DE619-06B3-4299-B978-3C6DD2006392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845DE619-06B3-4299-B978-3C6DD2006392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845DE619-06B3-4299-B978-3C6DD2006392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845DE619-06B3-4299-B978-3C6DD2006392}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5663233B-C5AC-4580-A1FF-F62030AE90FF}
+	EndGlobalSection
+EndGlobal
